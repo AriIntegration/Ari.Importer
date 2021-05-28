@@ -63,7 +63,7 @@
     <ManifestCertificateThumbprint>27D430339A06F5996F9BC4178C4CAC2AE2D046CC</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Ari.CSV_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>Ari.Importer_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
